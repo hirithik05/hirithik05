@@ -1,6 +1,14 @@
 [![MasterHead](https://www.semi.org/sites/semi.org/files/styles/2100x600/public/2021-06/shutterstock_1886583979%20v2_0.jpg?h=03d695ea&itok=2YwlHEM7)]
 <h1 align="center">Hi 👋, I'm Ritik Kumar Verma</h1>
-<h3 align="center">Currently I am pursuing B.Tech in computer science and Engineering with Artificial Intelligence specialization.</h3>
+<h3 align="center">Motivated 3rd year Computer Science student adept at
+problem solving, quick learning, and collaborating as a
+team player. Possessing strong analytical skills, I excel
+in challenging environments, consistently delivering
+innovative solutions. Eager to expand my knowledge
+base, I embrace new technologies and programming
+languages with enthusiasm. Committed to achieving
+excellence, I am driven to make a positive impact in the
+field of computer science  </h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1020/1*IRGHmiGsa16stedQvIaZfw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirithik05&label=Profile%20views&color=0e75b6&style=flat" alt="hirithik05" /> </p>
 
