@@ -1,6 +1,6 @@
 [![MasterHead](https://www.semi.org/sites/semi.org/files/styles/2100x600/public/2021-06/shutterstock_1886583979%20v2_0.jpg?h=03d695ea&itok=2YwlHEM7)]
 <h1 align="center">Hi 👋, I'm Ritik Kumar Verma</h1>
-<h3 align="center">Motivated 3rd year Computer Science student adept at
+<h3 align="center">Motivated 4th year Computer Science student adept at
 problem solving, quick learning, and collaborating as a
 team player. Possessing strong analytical skills, I excel
 in challenging environments, consistently delivering
